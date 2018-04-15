@@ -1,6 +1,8 @@
 # spring-boot-with-activiti
 # 工作流整合 springboot demo
 
+&#8194;&#8194;工作流整合springboot可以直接注册进入springCloud，通过springCloud来管理。整合了在线流程图视图编辑器。
+
 1.启动  
 &#8194;&#8194;1)执行process-center.sql导入数据  
 &#8194;&#8194;2)运行com.jerryl.SpringBootWithActivitiApplication下的主函数  
