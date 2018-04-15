@@ -8,4 +8,4 @@
 
 2.界面
 &#8194;&#8194;1)模型列表_操作页面  
-![image](data:img/model_edit.png)
+![image](https://github.com/FlanceVoV/SpringCloud_Activity/blob/master/img/model_list.png)
