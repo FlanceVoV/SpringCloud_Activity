@@ -9,3 +9,5 @@
 2.界面  
 &#8194;&#8194;1)模型列表_操作页面  
 ![image](https://github.com/FlanceVoV/SpringCloud_Activity/blob/master/img/model_list.png)
+&#8194;&#8194;2)模型列表_编辑页面  
+![image](https://github.com/FlanceVoV/SpringCloud_Activity/blob/master/img/model_edit.png)
