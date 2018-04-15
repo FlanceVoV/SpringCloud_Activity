@@ -6,6 +6,6 @@
 &#8194;&#8194;2)运行com.jerryl.SpringBootWithActivitiApplication下的主函数  
 &#8194;&#8194;3)项目默认访问80端口,http://localhost 配置文件是resource/application.yml
 
-2.界面
+2.界面  
 &#8194;&#8194;1)模型列表_操作页面  
 ![image](https://github.com/FlanceVoV/SpringCloud_Activity/blob/master/img/model_list.png)
