@@ -11,3 +11,6 @@
 ![image](https://github.com/FlanceVoV/SpringCloud_Activity/blob/master/img/model_list.png)
 &#8194;&#8194;2)模型列表_编辑页面  
 ![image](https://github.com/FlanceVoV/SpringCloud_Activity/blob/master/img/model_edit.png)
+
+3.操作说明  
+(数据库里有默认数据，只需配合activityDemo使用)
